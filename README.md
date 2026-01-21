@@ -1,7 +1,9 @@
 ## Hi, I'm Zihao 👋
 
 🎓 Senior @ Boston University — Data Science + Stat 
-💼 prev Data Engineer Intern @ Citizens Bank  
+
+💼 Prev Data Engineer Intern @ Citizens Bank  
+
 📊 Interested in Data Engineering, ML, and Scalable Systems
 
 ### Interests
