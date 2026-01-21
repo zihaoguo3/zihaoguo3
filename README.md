@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Zihao 👋
 
-<!--
-**zihaoguo3/zihaoguo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior @ Boston University — Data Science + Stat 
+💼 prev Data Engineer Intern @ Citizens Bank  
+📊 Interested in Data Engineering, ML, and Scalable Systems
 
-Here are some ideas to get you started:
+### Interests
+- Data Engineering
+- Machine Learning
+- Scalable Data Pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- Python, SQL, R, Rust
+- AWS, Azure, Spark, Kafka, Airflow, PowerBI
+- CNN, NLP, SVM, Random Forest
+
+### 📫 Contact
+📧 zihao@bu.edu
