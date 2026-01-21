@@ -1,6 +1,10 @@
 ## Hi, I'm Zihao 👋  
 
 <p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="200" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Senior+at+Boston+University;Data+Science+%2B+Statistical+Methods;Aspiring+Data+Engineer+%26+ML+Engineer" />
 </p>
 
