@@ -17,4 +17,4 @@
 - CNN, NLP, SVM, Random Forest
 
 ### 📫 Contact
-📧 zihao@bu.edu
+📧 z2004@bu.edu
