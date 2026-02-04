@@ -35,15 +35,6 @@ Spark (EMR Serverless), Kafka, AWS (S3, Athena, Lambda), Azure, Airflow, Snowfla
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zihaoguo3&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zihaoguo3&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📌 Highlights
 - Built **end-to-end data pipelines** for large-scale datasets  
 - Applied **ML & NLP models** to real-world problems  
