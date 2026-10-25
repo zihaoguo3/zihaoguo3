@@ -1,8 +1,7 @@
-## Hi, I'm Zihao 👋
+### Hi, I'm Zihao 👋
 
-Feel free to reach out:
+Data Engineer at **Citizens** · M.S. CS (AI) at **Georgia Tech** · B.S. Data Science, **Boston University**
 
-- 📧 Email: z2004@bu.edu
-- 💼 LinkedIn: https://www.linkedin.com/in/zihaoguo2004
-- 💻 GitHub: https://github.com/zihaoguo3
+Working with Python, SQL, Snowflake, dbt, and AWS.
 
+[Website](https://zihaoguo3.github.io) · [LinkedIn](https://www.linkedin.com/in/zihaoguo2004) · [Email](mailto:z2004@bu.edu)
